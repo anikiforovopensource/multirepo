@@ -1,2 +1,3 @@
-# multirepo
-Execute the same command for all target repositories.
+# Multirepo
+ - Clone multiple target repositores
+ - Run the same command for all target repositores
